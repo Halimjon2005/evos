@@ -1,0 +1,391 @@
+{
+  "sotuv": [
+    {
+      "id": "1",
+      "name": " Kids combo",
+      "photo": "https://cp.ectn.uz/files//kids_combo_wb_28_11.png",
+      "p": "Bolalar uchun mo'ljallangan mazali xot-dog, ",
+      "price": 18000,
+      "btn": "Savatga qo'shish"
+    },
+    {
+      "id": "2",
+      "name": "Tovuq go'shtidan shaurma",
+      "photo": "https://cp.ectn.uz/files//shaurma_kuriniy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 26000,
+      "btn": "Savatga qo'shish"
+    },
+    {
+      "id": "3",
+      "name": " Sub tovuq go`shtidan",
+      "photo": "https://cp.ectn.uz/files//kids_combo_wb_28_11.png",
+      "p": "Bolalar uchun mo'ljallangan mazali xot-dog",
+      "price": 18000,
+      "btn": "Savatga qo'shish"
+    },
+    {
+      "id": "4",
+      "name": "  Donar mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//donar_govajiy_22_01.png",
+      "p": "Bolalar uchun mo'ljallangan mazali xot-dog ",
+      "price": 45000,
+      "btn": "Savatga qo'shish"
+    },
+    {
+      "id": "5",
+      "name": " Kids combo",
+      "photo": "https://cp.ectn.uz/files//kids_combo_wb_28_11.png",
+      "p": "Bolalar uchun mo'ljallangan mazali xot-dog",
+      "price": 18000,
+      "btn": "Savatga qo'shish"
+    },
+    {
+      "id": "6",
+      "name": "Tovuq go'shtidan shaurma",
+      "photo": "https://cp.ectn.uz/files//shaurma_kuriniy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 26000,
+      "btn": "Savatga qo'shish"
+    },
+    {
+      "id": "8",
+      "name": "  Donar mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//donar_govajiy_22_01.png",
+      "p": "Bolalar uchun mo'ljallangan mazali xot-dog",
+      "price": 45000,
+      "btn": "Savatga qo'shish"
+    },
+    {
+      "id": "9",
+      "name": " Kids combo",
+      "photo": "https://cp.ectn.uz/files//kids_combo_wb_28_11.png",
+      "p": "Bolalar uchun mo'ljallangan mazali xot-dog",
+      "price": 18000,
+      "btn": "Savatga qo'shish"
+    },
+    {
+      "id": "10",
+      "name": "Tovuq go'shtidan shaurma",
+      "photo": "https://cp.ectn.uz/files//shaurma_kuriniy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 26000,
+      "btn": "Savatga qo'shish"
+    },
+    {
+      "id": "11",
+      "name": " Trindwich mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//trindwich_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Yangiliklar"
+    },
+    {
+      "id": "12",
+      "name": " Trindwich mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//trindwich_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Yangiliklar"
+    },
+    {
+      "id": "13",
+      "name": " Trindwich mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//trindwich_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Yangiliklar"
+    },
+    {
+      "id": "14",
+      "name": " Trindwich mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//trindwich_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Yangiliklar"
+    },
+    {
+      "id": "15",
+      "name": " Trindwich mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//trindwich_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Yangiliklar"
+    },
+    {
+      "id": "16",
+      "name": " Trindwich mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//trindwich_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Yangiliklar"
+    },
+    {
+      "id": "17",
+      "name": "  Mol go`shtidan lavash",
+      "photo": "https://cp.ectn.uz/files//lavash_standart_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Lavash"
+    },
+    {
+      "id": "18",
+      "name": "  Mol go`shtidan lavash",
+      "photo": "https://cp.ectn.uz/files//lavash_standart_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Lavash"
+    },
+    {
+      "id": "19",
+      "name": "  Mol go`shtidan lavash",
+      "photo": "https://cp.ectn.uz/files//lavash_standart_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Lavash"
+    },
+    {
+      "id": "20",
+      "name": "  Mol go`shtidan lavash",
+      "photo": "https://cp.ectn.uz/files//lavash_standart_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Lavash"
+    },
+    {
+      "id": "21",
+      "name": "  Mol go`shtidan lavash",
+      "photo": "https://cp.ectn.uz/files//lavash_standart_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Lavash"
+    },
+    {
+      "id": "22",
+      "name": "  Mol go`shtidan lavash",
+      "photo": "https://cp.ectn.uz/files//lavash_standart_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Lavash"
+    },
+    {
+      "id": "23",
+      "name": "  Mol go`shtidan lavash",
+      "photo": "https://cp.ectn.uz/files//lavash_standart_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Lavash"
+    },
+    {
+      "id": "24",
+      "name": "  Trindwich mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//trindwich_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Trindwich"
+    },
+    {
+      "id": "25",
+      "name": "  Trindwich mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//trindwich_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Trindwich"
+    },
+    {
+      "id": "26",
+      "name": "  Trindwich mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//trindwich_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Trindwich"
+    },
+    {
+      "id": "27",
+      "name": "  Trindwich mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//trindwich_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Trindwich"
+    },
+    {
+      "id": "28",
+      "name": "  Trindwich mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//trindwich_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Trindwich"
+    },
+    {
+      "id": "29",
+      "name": "  Trindwich mol go'shtidan",
+      "photo": "https://cp.ectn.uz/files//trindwich_govajiy_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Trindwich"
+    },
+    {
+      "id": "30",
+      "name": " Mol go'shtidan shaurma Mini",
+      "photo": "https://cp.ectn.uz/files//shaurma_govajiy_mini_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Shaurma"
+    },
+    {
+      "id": "31",
+      "name": " Mol go'shtidan shaurma Mini",
+      "photo": "https://cp.ectn.uz/files//shaurma_govajiy_mini_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Shaurma"
+    },
+    {
+      "id": "32",
+      "name": " Mol go'shtidan shaurma Mini",
+      "photo": "https://cp.ectn.uz/files//shaurma_govajiy_mini_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Shaurma"
+    },
+    {
+      "id": "33",
+      "name": " Mol go'shtidan shaurma Mini",
+      "photo": "https://cp.ectn.uz/files//shaurma_govajiy_mini_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Shaurma"
+    },
+    {
+      "id": "34",
+      "name": " Mol go'shtidan shaurma Mini",
+      "photo": "https://cp.ectn.uz/files//shaurma_govajiy_mini_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Shaurma"
+    },
+    {
+      "id": "35",
+      "name": " Mol go'shtidan shaurma Mini",
+      "photo": "https://cp.ectn.uz/files//shaurma_govajiy_mini_22_01.png",
+      "p": "Tovuq go'shtidan shaurma",
+      "price": 28000,
+      "btn": "Savatga qo'shish",
+      "category": "Shaurma"
+    },
+    {
+      "id": "4557",
+      "name": "dehec",
+      "photo": "ji",
+      "p": "djoec",
+      "price": "23",
+      "btn": "savatga qosh",
+      "category": "Shaurma"
+    }
+  ],
+  "filiallar": [
+    {
+      "id": "37",
+      "name": "001-Юнусабад",
+      "photo": "https://cp.ectn.uz/files/branches/16.png",
+      "p": "Часы работы",
+      "time": "09:00-3:00",
+      "adres": "Адерс",
+      "manzil": "г. Ташкент, Юнусабадский район,",
+      "manzil1": "  Квартал 5, 11а дом",
+      "vaqt": "Время работы",
+      "category": "Xarita"
+    },
+    {
+      "id": "38",
+      "name": "001-Юнусабад",
+      "photo": "https://cp.ectn.uz/files/branches/16.png",
+      "p": "Часы работы",
+      "time": "09:00-3:00",
+      "adres": "Адерс",
+      "manzil": "г. Ташкент, Юнусабадский район,",
+      "manzil1": "  Квартал 5, 11а дом",
+      "vaqt": "Время работы",
+      "category": "Xarita"
+    },
+    {
+      "id": "15",
+      "name": "001-Юнусабад",
+      "photo": "https://cp.ectn.uz/files/branches/16.png",
+      "p": "Часы работы",
+      "time": "09:00-3:00",
+      "adres": "Адерс",
+      "manzil": "г. Ташкент, Юнусабадский район,",
+      "manzil1": "  Квартал 5, 11а дом",
+      "vaqt": "Время работы",
+      "category": "Xarita"
+    },
+    {
+      "id": "15",
+      "name": "001-Юнусабад",
+      "photo": "https://cp.ectn.uz/files/branches/16.png",
+      "p": "Часы работы",
+      "time": "09:00-3:00",
+      "adres": "Адерс",
+      "manzil": "г. Ташкент, Юнусабадский район,",
+      "manzil1": "  Квартал 5, 11а дом",
+      "vaqt": "Время работы",
+      "category": "Xarita"
+    },
+    {
+      "id": "15",
+      "name": "001-Юнусабад",
+      "photo": "https://cp.ectn.uz/files/branches/16.png",
+      "p": "Часы работы",
+      "time": "09:00-3:00",
+      "adres": "Адерс",
+      "manzil": "г. Ташкент, Юнусабадский район,",
+      "manzil1": "  Квартал 5, 11а дом",
+      "vaqt": "Время работы",
+      "category": "Xarita"
+    }
+  ],
+  "yangiliklar": [
+    {
+      "id": "16",
+      "name": "Muqaddas Ramazon oyi uchun maxsus taklif!",
+      "photo": "http://admin.evos.uz/uploads/photo_2024_03_09_14_43_47_df096398c2.jpg",
+      "p": "Iftar Kofte – 45 000 so’m",
+      "p1": "Iftar Strips – 43 000 so’m",
+      "sayt": "📱@evosdeliverybot",
+      "phone": "📞71 203-12-12",
+      "category": "yangilik"
+    },
+    {
+      "id": "17",
+      "photo": "http://admin.evos.uz/uploads/EVOS_combo_1000x1000_kopiya_4e8c89e144.png",
+      "sayt": "📱@evosdeliverybot",
+      "phone": "📞71 203-12-12",
+      "category": "yangilik0"
+    }
+  ]
+}

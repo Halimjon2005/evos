@@ -1,0 +1,28 @@
+.card__wrapper{
+     display: grid;
+     grid-template-columns: repeat(3,1fr);
+
+}
+.card__location{
+   padding:30px ;
+     height: 450px;
+text-align: center;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+gap: 30px;
+transition: 1s;
+img{
+    width: 60px;
+  object-fit: contain;
+}
+}
+.h1
+{
+ text-align: center;
+ padding:  90px ;
+}
+.card__location:hover{
+    box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+}

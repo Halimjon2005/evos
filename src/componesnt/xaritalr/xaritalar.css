@@ -1,0 +1,74 @@
+.card__x{
+ display: flex;
+  align-items: center;
+  height: 200px;
+  justify-content: center;
+  box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.1);
+   gap: 200px;
+
+}
+.xarita__wrapper{
+   margin-top: 30px;
+    width: 800px;
+
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+.x__ong{
+    display: flex;
+     gap: 30px;
+
+     align-items: center;
+
+    img{
+        width: 100px;
+         height: 80px;
+         object-fit: contain;
+    }
+}
+.x__chap{
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.card__x:hover{
+
+border: 0.1px solid gray;
+
+}
+.nav__past{
+    margin-top: 30px;
+    display: flex;
+   justify-content: space-between;
+}
+
+.pastbtn{
+    width: 150px;
+    height: 50px;
+    border: 0.5px solid gray;
+    border-radius: 10px;
+    background: transparent;
+}
+.pastbtn1{
+    width: 150px;
+    height: 50px;
+    border: 0.5px solid gray;
+    border-radius: 10px;
+    background: transparent;
+}
+.btnpas{
+    display: flex;
+    gap: 30px;
+}
+.pastbtn:hover{
+    border: none;
+   background-color: #259b07 ;
+}
+.pastbtn1:hover{
+    border: none;
+   background-color: #259b07 ;
+}

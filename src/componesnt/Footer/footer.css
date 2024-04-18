@@ -1,0 +1,42 @@
+.footer__wrap img{
+    width: 150px;
+}
+.footer__f{
+    height: 180px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid gray;
+}
+.footer__link{
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+}
+.footer__f p:hover{
+border-top: 1px solid gray;
+}
+.footer__icons{
+    display: flex;
+    gap: 30px;
+}
+footer{
+ position: relative;
+ top: 40px;
+    width: 100%;
+    height: 330px;
+    background-color:#ebf4fa ;
+}
+.footer_pas{
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+    align-items: center;
+}
+.footer__chap{
+    font-size: 35px;
+    display: flex;
+    gap: 20px;
+  color: #259b07;
+}
+ 
